@@ -15,7 +15,7 @@ function App() {
         self-contained chunks of JSX.
       </p>
       <ExampleComponent />
-      <TestComponent title="time video" /> {}
+      <TestComponent title="time video" /> {/* Add TestComponent with a title */}
     </div>
   );
 }
